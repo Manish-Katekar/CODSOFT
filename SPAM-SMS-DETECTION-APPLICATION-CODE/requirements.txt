@@ -1,0 +1,12 @@
+python
+scikit-learn
+streamlit  
+joblib
+os
+pip install nltk
+nltk.download('punkt')
+nltk.download('stopwords')
+nltk.download('wordnet')
+pip install imbalanced-learn
+pip install scikit-learn
+pip install pandas
